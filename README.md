@@ -1,5 +1,10 @@
 # Mathematical Forecasting Methods
 
+Отчетность:
+
+Код (по умолчанию в формате .inypb) и отчёт (по умолчанию в формате .pdf) загружаются в этот репозиторий.
+Отчёты о проделанной работе оформляются в LaTeX и также загружаются в общий проект на Overleaf ([ссылка](https://www.overleaf.com/5114697364cxvvwsdsjjhg)) в папку chapters.
+ 
 Комментарии к датасетам:
 
 1. Датасет Walk accelerometer.
