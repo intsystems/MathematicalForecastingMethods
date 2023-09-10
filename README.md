@@ -28,8 +28,8 @@
 | 2 | Октябрь, 3 | Октябрь, 17 | - | - |
 | 3 | Ноябрь, 7 | Декабрь, 5 | Индивидуальные задания. | - |
 
-## Previous episodes
-- [2023-course]()
+## Предыдущие курсы
+- [Mathematical forecasting](https://m1p.org/index.php/Mathematical_forecasting)
 
 
 
