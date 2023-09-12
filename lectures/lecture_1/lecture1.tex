@@ -33,7 +33,7 @@
 		\centering
 		\includegraphics[width=0.4\linewidth]{lecture_1/figs/autocorr.png}
 	\end{figure}
-	\myfootnotewithlink{https://www.researchgate.net/publication/345125392_Data-Driven_Anomaly_Detection_Approach_for_Time-Series_Streaming_Data?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ}{сredit: https://www.researchgate.net/publication/345125392_Data-Driven_Anomaly_Detection_Approach_for_Time-Series_Streaming_Data}
+	\myfootnotewithlink{https://www.researchgate.net/publication/345125392_Data-Driven_Anomaly_Detection_Approach_for_Time-Series_Streaming_Data?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCJ9fQ}{сredit: https://www.researchgate.net/publication/345125392}
 \end{frame}
 %=======
 \begin{frame}{Регрессионные модели: SARIMAX}
@@ -50,7 +50,7 @@
 		\centering
 		\includegraphics[width=\linewidth]{lecture_1/figs/One-dimensional-Convolutional-Neural-Network-for-time-series.png}
 	\end{figure}
-	\myfootnotewithlink{https://jmtomczak.github.io/blog/1/1\_introduction.html}{сredit: https://jmtomczak.github.io/blog/1/1\_introduction.html}
+	\myfootnotewithlink{https://www.researchgate.net/figure/One-dimensional-Convolutional-Neural-Network-for-time-series_fig5_350457058}{сredit: https://www.researchgate.net/figure/One-dimensional-Convolutional-Neural-Network-for-time-series}
 \end{frame}
 %=======
 \begin{frame}{Регрессионные модели: рекуррентные нейронные сети}
@@ -61,23 +61,22 @@
 	\myfootnotewithlink{https://ieeexplore.ieee.org/document/8736879}{сredit: https://ieeexplore.ieee.org/document/8736879}
 \end{frame}
 %=======
-\begin{frame}{От статистическких к динамическим}
+\begin{frame}{От статистических к динамическим}
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.8\linewidth]{lecture_1/figs/takens.png}
 	\end{figure}
-	\myfootnotewithlink{https://phdinds-aim.github.io/time_series_handbook/06_ConvergentCrossMappingandSugiharaCausality/ccm_sugihara.html}{сredit: https://phdinds-aim.github.io/time_series_handbook/06_ConvergentCrossMappingandSugiharaCausality/ccm_sugihara.html}
 \end{frame}
 %=======
-\begin{frame}{От статистическких к динамическим: перекретсное отображение}
+\begin{frame}{От статистических к динамическим: перекрёстное отображение}
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.7\linewidth]{lecture_1/figs/ssm.png}
 	\end{figure}
-	\myfootnotewithlink{https://phdinds-aim.github.io/time_series_handbook/06_ConvergentCrossMappingandSugiharaCausality/ccm_sugihara.html}{сredit: https://phdinds-aim.github.io/time_series_handbook/06_ConvergentCrossMappingandSugiharaCausality/ccm_sugihara.html}
+	\myfootnotewithlink{https://phdinds-aim.github.io/time_series_handbook/06_ConvergentCrossMappingandSugiharaCausality/ccm_sugihara.html}{сredit: https://phdinds-aim.github.io/time\_series\_handbook}
 \end{frame}
 %=======
-\begin{frame}{От статистическких к динамическим: фурье анализ}
+\begin{frame}{От статистических к динамическим: анализ Фурье}
 	\begin{figure}
 		\centering
 		\includegraphics[width=1\linewidth]{lecture_1/figs/fourier.jpg}
@@ -85,7 +84,7 @@
 	\myfootnotewithlink{https://www.bizkit.ru/2020/01/21/16486/}{сredit: https://www.bizkit.ru/2020/01/21/16486/}
 \end{frame}
 %=======
-\begin{frame}{От статистическких к динамическим: вейвлет преобразование}
+\begin{frame}{От статистических к динамическим: вейвлет преобразование}
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.8\linewidth]{lecture_1/figs/wavelet.png}
@@ -93,7 +92,7 @@
 	\myfootnotewithlink{https://www.mathworks.com/help/wavelet/gs/choose-a-wavelet.html}{сredit: https://www.mathworks.com/help/wavelet/gs/choose-a-wavelet.html}
 \end{frame}
 %=======
-\begin{frame}{От статистическких к динамическим: сингулярный спектральный анализ}
+\begin{frame}{От статистических к динамическим: сингулярный спектральный анализ}
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.8\linewidth]{./figs/ssa.jpg}
@@ -117,40 +116,42 @@
 	\myfootnotewithlink{https://habr.com/ru/companies/ods/articles/442002/}{сredit: https://habr.com/ru/companies/ods/articles/442002/}
 \end{frame}
 %=======
-\begin{frame}{Временноя ряд}
+\begin{frame}{Временной ряд}
 \begin{itemize}
-    \item Временным рядом --- это последовательность значений некоторой переменной (или переменных), регистрируемых непрерывно или через некоторые промежутки времени.
+    \item Временной ряд --- это последовательность значений некоторой переменной (или переменных), регистрируемых непрерывно или через некоторые промежутки времени.
     
-    \item Скалярным временным рядом $\{x_i\}_{i=1}^{N}$ называется массив из N чисел, представляющих собой значения некоторой измеренной (наблюдаемой) динамической переменной $x(t)$ с некоторым постоянным шагом $\tau$ по времени, $t_i = t_0 + (i - 1)\tau : x_i = x(t_i), i = 1,..., N$.
+    \item Скалярным временным рядом $\{x_i\}_{i=1}^{N}$ называется массив из N чисел, представляющих собой значения некоторой измеренной (наблюдаемой) динамической переменной $x(t)$ с некоторым постоянным шагом $\tau$ по времени.
+    % $t_i = t_0 + (i - 1)\tau : x_i = x(t_i), i = 1,..., N$.
 
-    \item Основные задачи --- это задача прогноза (предсказать будущие значения измеряемых характеристик изучаемого объекта на некоторый отрезок времени вперед).
+    \item Основная задача --- это задача прогноза (предсказать будущие значения измеряемых характеристик изучаемого объекта на некоторый отрезок времени вперед).
 \end{itemize}
 \end{frame}
 %=======
-\begin{frame}{Временноя ряд}
-$\{x_t\}_{t=1}^{N}$ --- временным рядом,
+\begin{frame}{Временной ряд}
+Будем называть $\{x_i\}_{i=1}^{N}$ временным рядом,
 
-$\hat{x}_{t+d} = f_{t,d}(x_1,...x_N;w)$ --- модель временного ряда, где $d =1,...,D$ --- горизонт прогнозирования,
+$\hat{x}_{i+d} = f_{i,d}(x_1,...x_N;w)$ --- моделью временного ряда, где $d =1,...,D$ --- горизонт прогнозирования.
 
 Метод наименьших квадратов:
     \begin{equation*}
-        Q_t(w) = \sum_{i = t_0}^{t}(\hat{x}_{i}(w) - x_i)^2 \rightarrow \min_w
+        Q_t(w) = \sum_{i = 1}^{N}(\hat{x}_{i}(w) - x_i)^2 \rightarrow \min_w
     \end{equation*}
 
 Проблемы:
 \begin{itemize}
-    \item может быть сложная структура временных рядов,
-    \item неквадратичная функция потерь,
-    \item учитывать физическую природу временного ряда.
+    \item у временных рядов может быть сложная структура,
+    \item неквадратичная функция потерь подходит не для всех задач,
+    \item может быть потребность в учете физической природы временного ряда.
 \end{itemize}
 \end{frame}
 %=======
 \begin{frame}{Резюме}
     \begin{itemize}
-    	\item Существует множество различных статистических и динамических методов прогнозирования временных рядов;
-        \item Существуют методы и модели прогнозирования данные высокой размерности (такие как видео);
-        \item Принципиальное отличие --- это зависимость наблюдений от предыстории;
-        \item Классическая постановка сильно ограничен.
+        \item Этот курс будет посвещен математическим методам вне классических подходов (но и классические тоже будут затронуты).
+    	\item Существует множество различных статистических и динамических методов прогнозирования временных рядов.
+        \item Существуют методы и модели прогнозирования данных высокой размерности (таких как видео).
+        \item Принципиальное отличие от других задач машинного обучения --- это зависимость наблюдений от предыстории.
+        \item Классическая постановка сильно ограничена.
     \end{itemize}
 \end{frame}
 
