@@ -29,6 +29,7 @@
 | 3 | Ноябрь, 7 | Декабрь, 5 | Индивидуальные задания. | - |
 
 ## Предыдущие курсы
+- [MathematicalForecastingMethods2022](https://github.com/intsystems/MathematicalForecastingMethods/tree/2022-course)
 - [Mathematical forecasting](https://m1p.org/index.php/Mathematical_forecasting)
 
 
