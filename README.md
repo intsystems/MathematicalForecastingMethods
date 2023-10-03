@@ -10,7 +10,7 @@
 | 1 | Сентябрь, 12 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | [video](https://www.youtube.com/live/8Hn3Vj0yMic?si=d9vWlQiDTV1XD8mG) |
 | - | Сентябрь, 19 | - | | |
 | 2 | Сентябрь, 26 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)|[video](https://www.youtube.com/live/AXiF5h1M40o?si=ARmq0dPVciU0fB-H) |
-| 3 | Октябрь, 3 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| | |
+| 3 | Октябрь, 3 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_3/lecture3.pdf)| |
 | 4 | Октябрь, 10 | От статистических методов к динамическим. Часть 1. | | |
 | 5 | Октябрь, 17 | От статистических методов к динамическим. Часть 2. | | |
 | 6 | Октябрь, 24 | - | | |
