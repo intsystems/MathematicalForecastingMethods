@@ -22,7 +22,7 @@
 | 11 | Декабрь, 5 | - | - | - |
 
 | Семинар | Дата | Описание | Код |
-|---------|------|-------------|---------|-------| 
+|---------|------|-------------|---------|
 | 6 | Октябрь, 31|  Декомпозиция временных рядов, FFT и  SSA. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
 
 
