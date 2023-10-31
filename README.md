@@ -6,7 +6,7 @@
 ## Материалы
 
 | Лекции | Дата | Описание | Презентация | Запись |
-|---------|------|-------------|---------|-------| 
+|---------|--------|-------------|---------|-------| 
 | 1 | Сентябрь, 12 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | [video](https://www.youtube.com/live/8Hn3Vj0yMic?si=d9vWlQiDTV1XD8mG) |
 | - | Сентябрь, 19 | - | | |
 | 2 | Сентябрь, 26 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)|[video](https://www.youtube.com/live/AXiF5h1M40o?si=ARmq0dPVciU0fB-H) |
@@ -22,13 +22,13 @@
 | 11 | Декабрь, 5 | - | - | - |
 
 | Семинар | Дата | Описание | Код |
-|---------|------|-------------|---------|
+|---------|--------|-------------|---------|
 | 6 | Октябрь, 31|  Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
 
 
 ## Домашнее задание 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
-|---------|------|-------------|--------|-------|
+|---------|--------|-------------|--------|-------|
 | 1 | Октябрь, 10 | Октябрь, 24 | Вводная теория: сравнение и анализ статистических моделей. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16f63TDQWBTRHiEv_qqy09BPEsX5hST45?usp=sharing)|
 | 2 | Ноябрь, 3 | Ноябрь, 17 | - | - |
 | 3 | Ноябрь, 17 | Декабрь, 5 | Индивидуальные задания. | - |
