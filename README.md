@@ -14,12 +14,17 @@
 | 4 | Октябрь, 10 | Нейронные сети для пронозирования временных рядов. CNN, RNN, LSTM, GRU. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf)|| |
 | - | Октябрь, 17 |-|-|-|
 | 5 | Октябрь, 24 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
-| 6 | Октябрь, 31| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование.vSVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)| |
+| 6 | Октябрь, 31| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
 | 7 | Ноябрь, 7 | - | - | - |
 | 8 | Ноябрь, 14 | - | - | - |
 | 9 | Ноябрь, 21 | - | - | - |
 | 10 | Ноябрь, 28 | - | - | - |
 | 11 | Декабрь, 5 | - | - | - |
+
+| Семинар | Дата | Описание | Код |
+|---------|------|-------------|---------|-------| 
+| 6 | Октябрь, 31|  Декомпозиция временных рядов, FFT и  SSA. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
+
 
 ## Домашнее задание 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
