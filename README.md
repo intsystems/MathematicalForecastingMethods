@@ -30,7 +30,7 @@
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
 |---------|--------|-------------|--------|-------|
 | 1 | Октябрь, 10 | Октябрь, 24 | Вводная теория: сравнение и анализ статистических моделей. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16f63TDQWBTRHiEv_qqy09BPEsX5hST45?usp=sharing)|
-| 2 | Ноябрь, 6 | Ноябрь, 20 | Dynamical Forecasting Methods, CCM, SSA | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW2_ts_dynamical_forecasting.ipynb)  |
+| 2 | Ноябрь, 6 | Ноябрь, 19 | Dynamical Forecasting Methods, CCM, SSA | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW2_ts_dynamical_forecasting.ipynb)  |
 | 3 | Ноябрь, 20 | Декабрь, 5 | Индивидуальные задания. | - |
 
 ## Полезные материалы
