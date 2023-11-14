@@ -16,14 +16,16 @@
 | 5 | Октябрь, 24 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
 | 6 | Октябрь, 31| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
 | 7 | Ноябрь, 7 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
-| 8 | Ноябрь, 14 | - | - | - |
+| 8 | Ноябрь, 14 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
 | 9 | Ноябрь, 21 | - | - | - |
 | 10 | Ноябрь, 28 | - | - | - |
 | 11 | Декабрь, 5 | - | - | - |
 
 | Семинар | Дата | Описание | Код |
 |---------|--------|-------------|---------|
-| 6 | Октябрь, 31|  Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
+| 1 | Октябрь, 31| Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
+| 2 | Ноябрь, 14| Введение в NeuralODE. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar8.ipynb)|
+
 
 
 ## Домашнее задание 
