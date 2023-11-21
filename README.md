@@ -33,7 +33,7 @@
 |---------|--------|-------------|--------|-------|
 | 1 | Октябрь, 10 | Октябрь, 24 | Вводная теория: сравнение и анализ статистических моделей. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16f63TDQWBTRHiEv_qqy09BPEsX5hST45?usp=sharing)|
 | 2 | Ноябрь, 6 | Ноябрь, 19 | Dynamical Forecasting Methods, CCM, SSA | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW2_ts_dynamical_forecasting.ipynb)  |
-| 3 | Ноябрь, 20 | Декабрь, 5 | Индивидуальные задания. | - |
+| 3 | Ноябрь, 21 | Декабрь, 12 | Индивидуальные задания. | [ссылка](https://web.archive.org/web/20230610043830/http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C_2022#.D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8_.D0.BD.D0.B0_.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B_.D0.BA.D1.83.D1.80.D1.81.D0.B0)  |
 
 ## Полезные материалы
 - [Статистический анализ данных (курс лекций МФТИ, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
