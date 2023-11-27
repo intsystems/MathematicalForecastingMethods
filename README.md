@@ -17,7 +17,7 @@
 | 6 | Октябрь, 31| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
 | 7 | Ноябрь, 7 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
 | 8 | Ноябрь, 14 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
-| 9 | Ноябрь, 21 | - | - | - |
+| 9 | Ноябрь, 21 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
 | 10 | Ноябрь, 28 | - | - | - |
 | 11 | Декабрь, 5 | - | - | - |
 
