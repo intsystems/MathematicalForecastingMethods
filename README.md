@@ -19,7 +19,7 @@
 | 8 | Ноябрь, 14 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
 | 9 | Ноябрь, 21 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
 | 10 | Ноябрь, 28 | - | - | - |
-| 11 | Декабрь, 5 | - | - | - |
+| 11 | Декабрь, 5 | Обсуждение лабораторных работ | - | - |
 
 | Семинар | Дата | Описание | Код |
 |---------|--------|-------------|---------|
