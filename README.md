@@ -36,12 +36,14 @@
 | 3 | Ноябрь, 21 | Декабрь, 12 | Индивидуальные задания. (Лабораторная работа) | [ссылка](https://web.archive.org/web/20230610043830/http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C_2022#.D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8_.D0.BD.D0.B0_.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B_.D0.BA.D1.83.D1.80.D1.81.D0.B0)  |
 
 ## Материалы
+### Семестр 1
 - [Статистический анализ данных (курс лекций МФТИ, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
 - [Введение в анализ временных рядов, МГУ](https://mse.msu.ru/wp-content/uploads/2021/03/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D1%8F%D0%B4%D0%BE%D0%B2-1.pdf)
 - [Курс лекций Анализ временных рядов ВШЕ, Канторович Г.Г.](https://ej.hse.ru/data/2010/12/31/1208182144/06_01_06.pdf)
+### Семестр 2
 - [Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1](https://www.researchgate.net/publication/307636373_Low-Rank_Tensor_Networks_for_Dimensionality_Reduction_and_Large-Scale_Optimization_Problems_Perspectives_and_Challenges_PART_1)
 - [Tensor Networks for Dimensionality Reduction and Large-Scale Optimizations. Part 2 Applications and Future Perspectives](https://www.researchgate.net/publication/317257563_Tensor_Networks_for_Dimensionality_Reduction_and_Large-Scale_Optimizations_Part_2_Applications_and_Future_Perspectives) 
-- [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges]
+- [Geometric Deep Learning Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
 
 ## Предыдущие курсы
 - [MathematicalForecastingMethods2022](https://github.com/intsystems/MathematicalForecastingMethods/tree/2022-course)
