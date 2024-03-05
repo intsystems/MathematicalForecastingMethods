@@ -4,7 +4,7 @@
 Курс посвящен неклассическим математическим моделям в машинном обучении. Рассматриваются линейные, тензорные модели, глубокие нейронные сети и модели, работающие с дифференциальными уравнениями. Данными для моделирования являются видео, аудио, энцефалограммы, фМРТ и другие измерения в естественных науках. Практическими примерами являются BCI, прогнозирование погоды и различных пространственно-временных рядов.
 
 ## Материалы
-
+### Семестр 1
 | Лекции | Дата | Описание | Презентация | Запись |
 |---------|--------|-------------|---------|-------| 
 | 1 | Сентябрь, 12 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | [video](https://www.youtube.com/live/8Hn3Vj0yMic?si=d9vWlQiDTV1XD8mG) |
@@ -26,7 +26,11 @@
 | 1 | Октябрь, 31| Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
 | 2 | Ноябрь, 14| Введение в NeuralODE. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar8.ipynb)|
 
-
+### Семестр 2
+| Лекции | Дата | Описание | Презентация | Запись |
+|---------|--------|-------------|---------|-------| 
+| 12 | Март, 5 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | - | - |
+| 13 | Март, 12 | - | - | - |
 
 ## Домашнее задание 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
