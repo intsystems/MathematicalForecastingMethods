@@ -18,8 +18,8 @@
 | 7 | Ноябрь, 7 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
 | 8 | Ноябрь, 14 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
 | 9 | Ноябрь, 21 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
-| 10 | Ноябрь, 28 | - | - | - |
-| 11 | Декабрь, 5 | Обсуждение лабораторных работ | - | - |
+| - | Ноябрь, 28 | - | - | - |
+| - | Декабрь, 5 | Обсуждение лабораторных работ | - | - |
 
 | Семинар | Дата | Описание | Код |
 |---------|--------|-------------|---------|
@@ -29,8 +29,17 @@
 ### Семестр 2
 | Лекции | Дата | Описание | Презентация | Запись |
 |---------|--------|-------------|---------|-------| 
-| 12 | Март, 5 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | - | - |
-| 13 | Март, 12 | - | - | - |
+| 10 | Март, 12 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_10/lecture10.pdf) | - |
+| 11 | Март, 19 | CP-decomposition and alternated least squares | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_11/lecture11.pdf) | - |
+| 12 | Март, 26 | Tucker decomposition and Higher-order singular values decomposition | - | - |
+| 13 | Апрель, 2| Higher-order PLS and Prediction of the Response Variables  | - | - |
+| 14 | Апрель, 9 | - | - | - |
+| 15 | Апрель, 16 | - | - | - |
+| 16 | Апрель, 23 | - | - | - |
+| 17 | Апрель, 30 | - | - | - |
+| 17 | Май, 7| Обсуждение лабораторных работ | - | - |
+
+
 
 ## Домашнее задание 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
