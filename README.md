@@ -31,22 +31,28 @@
 |---------|--------|-------------|---------|-------| 
 | 10 | Март, 12 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_10/lecture10.pdf) | - |
 | 11 | Март, 19 | CP-decomposition and alternated least squares | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_11/lecture11.pdf) | - |
-| 12 | Март, 26 | Tucker decomposition and Higher-order singular values decomposition | - | - |
-| 13 | Апрель, 2| Higher-order PLS and Prediction of the Response Variables  | - | - |
-| 14 | Апрель, 9 | - | - | - |
-| 15 | Апрель, 16 | - | - | - |
-| 16 | Апрель, 23 | - | - | - |
-| 17 | Апрель, 30 | - | - | - |
+| - | Март, 26 | - | - | - |
+| 12 | Апрель, 2| Tucker decomposition and Higher-order singular values decomposition  | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_12/lecture12.pdf) | - | | - |
+| 13 | Апрель, 9 | Higher-order PLS and Prediction of the Response Variables | - | - |
+| 14 | Апрель, 16 | - | - | - |
+| 15 | Апрель, 23 | - | - | - |
+| 16 | Апрель, 30 | - | - | - |
 | 17 | Май, 7| Обсуждение лабораторных работ | - | - |
 
 
 
-## Домашнее задание 
+## Домашнее задание
+### Семестр 1 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
 |---------|--------|-------------|--------|-------|
 | 1 | Октябрь, 10 | Октябрь, 24 | Вводная теория: сравнение и анализ статистических моделей. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16f63TDQWBTRHiEv_qqy09BPEsX5hST45?usp=sharing)|
 | 2 | Ноябрь, 6 | Ноябрь, 19 | Dynamical Forecasting Methods, CCM, SSA | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW2_ts_dynamical_forecasting.ipynb)  |
 | 3 | Ноябрь, 21 | Декабрь, 12 | Индивидуальные задания. (Лабораторная работа) | [ссылка](https://web.archive.org/web/20230610043830/http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C_2022#.D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8_.D0.BD.D0.B0_.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B_.D0.BA.D1.83.D1.80.D1.81.D0.B0)  |
+### Семестр 2
+| Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
+|---------|--------|-------------|--------|-------|
+| 1 | Апрель, 2 | Апрель, 16 | CP decomp, ALS, классификация ЭЭГ|[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW3_tenscomp_tensor_als.ipynb)|
+| 2 | Апрель, 16 | Май, 7 | Индивидуальные задания. (Лабораторная работа) ||
 
 ## Материалы
 ### Семестр 1
