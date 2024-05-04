@@ -31,13 +31,11 @@
 |---------|--------|-------------|---------|-------| 
 | 10 | Март, 12 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_10/lecture10.pdf) | - |
 | 11 | Март, 19 | CP-decomposition and alternated least squares | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_11/lecture11.pdf) | - |
-| - | Март, 26 | - | - | - |
 | 12 | Апрель, 2| Tucker decomposition and Higher-order singular values decomposition  | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_12/lecture12.pdf) | - | | - |
-| 13 | Апрель, 9 | Higher-order PLS and Prediction of the Response Variables | - | - |
-| 14 | Апрель, 16 | - | - | - |
-| 15 | Апрель, 23 | - | - | - |
-| 16 | Апрель, 30 | - | - | - |
-| 17 | Май, 7| Обсуждение лабораторных работ | - | - |
+| 13 | Апрель, 9 | Higher-order PLS and Prediction of the Response Variables | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_13/lecture13.pdf) | - | | - |
+| 14 | Апрель, 16 | Higher-order SSA (Tensor SSA) | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_14/lecture14.pdf) | - | | - |
+| 15 | Апрель, 23 | Tensor-Train Decomposition | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_15/lecture15.pdf) | - | | - |
+| 16 | Май, 7| Обсуждение лабораторных работ | - | - |
 
 
 
