@@ -7,8 +7,8 @@
 ### Семестр 1
 | Лекции | Дата | Описание | Презентация | Запись |
 |---------|--------|-------------|---------|-------| 
-| 1 | Сентябрь, 10 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | [video](https://www.youtube.com/live/8Hn3Vj0yMic?si=d9vWlQiDTV1XD8mG) |
-| 2 | Сентябрь, 17 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)|[video](https://www.youtube.com/live/AXiF5h1M40o?si=ARmq0dPVciU0fB-H) |
+| 1 | Сентябрь, 10 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | |
+| 2 | Сентябрь, 17 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)| |
 | 3 | Сентябрь, 24 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_3/lecture3.pdf)| |
 | 4 | Октябрь, 1 | Нейронные сети для пронозирования временных рядов. CNN, RNN, LSTM, GRU. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf)|| |
 | 5 | Октябрь, 8 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
