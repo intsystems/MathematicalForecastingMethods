@@ -1,4 +1,4 @@
-# Mathematical Forecasting Methods, MIPT, 2023-2024
+# Mathematical Forecasting Methods, MIPT, 2024-2025
 
 ## Описание
 Курс посвящен неклассическим математическим моделям в машинном обучении. Рассматриваются линейные, тензорные модели, глубокие нейронные сети и модели, работающие с дифференциальными уравнениями. Данными для моделирования являются видео, аудио, энцефалограммы, фМРТ и другие измерения в естественных науках. Практическими примерами являются BCI, прогнозирование погоды и различных пространственно-временных рядов.
@@ -7,19 +7,15 @@
 ### Семестр 1
 | Лекции | Дата | Описание | Презентация | Запись |
 |---------|--------|-------------|---------|-------| 
-| 1 | Сентябрь, 12 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | [video](https://www.youtube.com/live/8Hn3Vj0yMic?si=d9vWlQiDTV1XD8mG) |
-| - | Сентябрь, 19 | - | | |
-| 2 | Сентябрь, 26 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)|[video](https://www.youtube.com/live/AXiF5h1M40o?si=ARmq0dPVciU0fB-H) |
-| 3 | Октябрь, 3 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_3/lecture3.pdf)| |
-| 4 | Октябрь, 10 | Нейронные сети для пронозирования временных рядов. CNN, RNN, LSTM, GRU. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf)|| |
-| - | Октябрь, 17 |-|-|-|
-| 5 | Октябрь, 24 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
-| 6 | Октябрь, 31| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
-| 7 | Ноябрь, 7 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
-| 8 | Ноябрь, 14 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
-| 9 | Ноябрь, 21 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
-| - | Ноябрь, 28 | - | - | - |
-| - | Декабрь, 5 | Обсуждение лабораторных работ | - | - |
+| 1 | Сентябрь, 10 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | |
+| 2 | Сентябрь, 17 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)| |
+| 3 | Сентябрь, 24 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_3/lecture3.pdf)| |
+| 4 | Октябрь, 1 | Нейронные сети для пронозирования временных рядов. CNN, RNN, LSTM, GRU. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf)|| |
+| 5 | Октябрь, 8 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
+| 6 | Октябрь, 15| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
+| 7 | Октябрь, 22 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
+| 8 | Октябрь, 29 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
+| 9 | Ноябрь, 5 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
 
 | Семинар | Дата | Описание | Код |
 |---------|--------|-------------|---------|
@@ -29,13 +25,13 @@
 ### Семестр 2
 | Лекции | Дата | Описание | Презентация | Запись |
 |---------|--------|-------------|---------|-------| 
-| 10 | Март, 12 | Tensor Notations and Graphical Representations, Basic Multilinear Operations | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_10/lecture10.pdf) | - |
-| 11 | Март, 19 | CP-decomposition and alternated least squares | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_11/lecture11.pdf) | - |
-| 12 | Апрель, 2| Tucker decomposition and Higher-order singular values decomposition  | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_12/lecture12.pdf) | - | | - |
-| 13 | Апрель, 9 | Higher-order PLS and Prediction of the Response Variables | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_13/lecture13.pdf) | - | | - |
-| 14 | Апрель, 16 | Higher-order SSA (Tensor SSA) | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_14/lecture14.pdf) | - | | - |
-| 15 | Апрель, 23 | Tensor-Train Decomposition | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_15/lecture15.pdf) | - | | - |
-| 16 | Май, 7| Обсуждение лабораторных работ | - | - |
+| 10 | Март,  | Tensor Notations and Graphical Representations, Basic Multilinear Operations | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_10/lecture10.pdf) | - |
+| 11 | Март,  | CP-decomposition and alternated least squares | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_11/lecture11.pdf) | - |
+| 12 | Апрель, | Tucker decomposition and Higher-order singular values decomposition  | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_12/lecture12.pdf) | - | | - |
+| 13 | Апрель,  | Higher-order PLS and Prediction of the Response Variables | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_13/lecture13.pdf) | - | | - |
+| 14 | Апрель,  | Higher-order SSA (Tensor SSA) | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_14/lecture14.pdf) | - | | - |
+| 15 | Апрель,  | Tensor-Train Decomposition | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_15/lecture15.pdf) | - | | - |
+| 16 | Май, | Обсуждение лабораторных работ | - | - |
 
 
 
