@@ -6,20 +6,19 @@
 ## Материалы
 ### Семестр 1
 | Лекции | Дата | Описание | Презентация | Запись |
-|---------|--------|-------------|---------|-------| 
+|---------|----------|-------------|---------|-------| 
 | 1 | Сентябрь, 10 | Введение. Обзор тем. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_1/lecture1.pdf) | |
 | 2 | Сентябрь, 17 | Стационарные временные ряды. Модели SARIMA.|[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_2/lecture2.pdf)| |
 | 3 | Сентябрь, 24 | Векторная регрессия, модель VAR. Моделирование волатильности, модель GARCH.| [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_3/lecture3.pdf)| |
-| 4 | Октябрь, 8 | Нейронные сети для пронозирования временных рядов. CNN, RNN, LSTM, GRU. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf)|| |
-| 5 | Октябрь, 15 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf) | |
-| 6 | Октябрь, 22| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_6/lecture6.pdf)| |
-| 7 | Октябрь, 29 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
-| 8 | Октябрь, 5 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
-| 9 | Ноябрь, 13 | NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
+| 4 | Октябрь, 8 | Динамические методы обработки временных рядов. Время и фаза для периодических временных рядов. Теорема Такенса. CCM. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_4/lecture4.pdf) | |
+| 5 | Октябрь, 15| Основные методы прогноза нерегулярных временных рядов. Локальное Фурье преобразование. SVD, SSA(PCA) и LA. |[slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_5/lecture5.pdf)| |
+| 6 | Октябрь, 22 | Прогноз методом SSA. Выравнивание рядов DTW, DWT-DBA | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_7/lecture7.pdf)| - |
+| 7 | Октябрь, 29 | Введение в NeuralODE. | [slides](https://github.com/intsystems/MathematicalForecastingMethods/blob/main/lectures/lecture_8/lecture8.pdf)| - |
+| 8 | Ноябрь, 5| NeuralODE, анализ динамических систем | - | [video](https://www.youtube.com/watch?v=Z389868f-jk&list=PLk4h7dmY2eYF6Q3hRut13RNcn83HrY_cY&index=8) |
 
 | Семинар | Дата | Описание | Код |
-|---------|--------|-------------|---------|
-| 1 | Октябрь, 31| Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
+|---------|----------|-------------|---------|
+| 1 | Октябрь, 22| Декомпозиция временных рядов, FFT и  SSA. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1hsyLrDpYgWlGy08hF6KcOs7KvROYSdV4/view?usp=sharing)|
 | 2 | Ноябрь, 14| Введение в NeuralODE. |[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](seminars/seminar8.ipynb)|
 
 ### Семестр 2
@@ -38,13 +37,13 @@
 ## Домашнее задание
 ### Семестр 1 
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
-|---------|--------|-------------|--------|-------|
+|---------|----------|-------------|--------|-------|
 | 1 | Октябрь, 1 | Октябрь, 15 | Вводная теория: сравнение и анализ статистических моделей. | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW1_ts_basic.ipynb)|
 | 2 | Ноябрь, - | Ноябрь, - | Dynamical Forecasting Methods, CCM, SSA | [![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW2_ts_dynamical_forecasting.ipynb)  |
 | 3 | Ноябрь, - | Декабрь, - | Индивидуальные задания. (Лабораторная работа) | [ссылка](https://web.archive.org/web/20230610043830/http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/%D0%9E%D1%81%D0%B5%D0%BD%D1%8C_2022#.D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8_.D0.BD.D0.B0_.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B_.D0.BA.D1.83.D1.80.D1.81.D0.B0)  |
 ### Семестр 2
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
-|---------|--------|-------------|--------|-------|
+|---------|----------|-------------|--------|-------|
 | 1 | Апрель, 2 | Апрель, 16 | CP decomp, ALS, классификация ЭЭГ|[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW3_tenscomp_tensor_als.ipynb)|
 | 2 | Апрель, 16 | Май, 7 | Индивидуальные задания. (Лабораторная работа) ||
 
