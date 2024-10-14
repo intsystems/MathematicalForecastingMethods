@@ -78,7 +78,7 @@ x_{T+d} \approx f_{T,d}(x_1,...x_T;w) =: \hat{x}_{T+d},
 \end{frame}
 %=======
 \begin{frame}{Стационарный временной ряд}
-\textbf{Вопрос}: какие из этих рядов стационарные?
+\textbf{Вопрос}: какие из этих рядов, вероятно, стационарные?
 \begin{figure}
     \centering
     \includegraphics[width=0.8\linewidth]{lecture_2/fig/ts_stationary.png}
@@ -91,7 +91,7 @@ x_{T+d} \approx f_{T,d}(x_1,...x_T;w) =: \hat{x}_{T+d},
 %=======
 \begin{frame}{Автокорреляция}
 
-\textbf{Определение.} Функция $\rho(k)$ называется  \textit{автокорреляционной функцией (autocorrelation function, ACF)} стационарного временного ряда.
+\textbf{Определение.} Функция $\rho(k)$, где $k$ - \textit{величина лага}, называется  \textit{автокорреляционной функцией (autocorrelation function, ACF)} стационарного временного ряда.
 
 \begin{equation*}
     \rho(k) = \mathrm{Corr}(x_t, x_{t+k}) = \frac{ \mathrm{Cov}(x_t,x_{t+k}) }{ \sqrt{ \mathrm{D}(x_t) \cdot \mathrm{D}(x_{t+k}) } } = \frac{ \gamma(k) }{ \sqrt{ \gamma(0) \cdot \gamma(0) } } = \frac{ \gamma(k) }{ \gamma(0)}
@@ -103,7 +103,7 @@ x_{T+d} \approx f_{T,d}(x_1,...x_T;w) =: \hat{x}_{T+d},
 \end{equation*}
 Для стационарных временных рядов верно, что
 \begin{equation*}
-    \lim_{k \to \infty} \rho(k) = \infty
+    \lim_{k \to \infty} \rho(k) = 0
 \end{equation*}
 
 % \begin{figure}
@@ -129,6 +129,28 @@ x_{T+d} \approx f_{T,d}(x_1,...x_T;w) =: \hat{x}_{T+d},
     \includegraphics[width=0.53\linewidth]{lecture_2/fig/4acf_2.png}
 \end{figure}
 \end{frame}
+
+
+%=======
+\begin{frame}{Частичная Автокорреляция (PACF)}
+
+Частичная автокорреляция лага $k > 1$ также измеряет корреляцию между $x_t$ и $x_{t+k}$, но за вычетом линейных зависимостей этих величин от $x_{t+1}, ..., x_{t+k-1}$:
+\begin{equation*}
+    \rho_{PACF}(k) = \mathrm{Corr}(x_t - \hat{x}_t, x_{t+k} - \hat{x}_{t+k}) 
+\end{equation*}
+Здесь $\hat{x}_t$, $\hat{x}_{t+k}$ - это линейные комбинации $x_{t+1}, ..., x_{t+k-1}$ с коэффициентами, минимизирующими среднеквадратичную ошибку предсказания значений $x_t$ и $x_{t+k}$ соответственно:
+$$ \hat{x}_t = \beta_1^{(1)} x_{t+1} + ... + \beta_{k-1}^{(1)} x_{t+k-1}, \quad \hat{x}_{t+k} = \beta_1^{(2)} x_{t+1} + ... + \beta_{k-1}^{(2)} x_{t+k-1}$$
+Для стационарных временных рядов значение коэффициента, полученного с помощью МНК, зависит только от разности временных индексов, поэтому коэффициенты для $\hat{x}_t$ и $\hat{x}_{t+k}$ одинаковые, но имеют противоположный порядок:
+$$ \hat{x}_t = \beta_1 x_{t+1} + ... + \beta_{k-1} x_{t+k-1}, \quad \hat{x}_{t+k} = \beta_{k-1} x_{t+1} + ... + \beta_1 x_{t+k-1}$$
+
+% \begin{figure}
+%     \centering
+%     \includegraphics[width=1\linewidth]{lecture_2/fig/acf.png}
+%     \caption{Периодический временной ряд и его коррелограмма}
+% \end{figure}
+
+\end{frame}
+
 %=======
 \begin{frame}{Модель ARMA}
 Общая смешанная модель ARMA$(p,q)$ (AutoRegression Moving Average) авторегрессии-скользящего среднего:
@@ -302,8 +324,10 @@ statsmodels.tsa.statespace.sarimax.SARIMAX.html}
 \end{frame}
 %=======
 \begin{frame}{Информационные критерии}
+Информационные критерии --- это разные виды регуляризованного правдоподобия.
+
 \textbf{Критерий Акаике (Akaike's information criterion, AIC)} --- критерий выбора из класса параметризованных регрессионных моделей, оценивающий модели с разным числом параметров.
-Содержит функцию штрафа, линейно зависящую от числа параметров
+Содержит функцию штрафа, линейно зависящую от числа параметров:
 \begin{equation*}
     AIC = 2\frac{p + q}{T} + \ln\Bigg(\frac{\sum_{t=1}^T (x_t - \hat{x}_t)^2}{n}\Bigg)
 \end{equation*}
@@ -326,7 +350,7 @@ statsmodels.tsa.statespace.sarimax.SARIMAX.html}
 \begin{frame}{Резюме}
     \begin{itemize}
         \item временные ряды представляются как случайные процессы,
-        \item стационарный временной ряд по Теореме Вольда предстваим с помощью ARMA модели,
+        \item стационарный временной ряд по Теореме Вольда представим с помощью ARMA модели,
         \item модель ARMA --- линейная комбинация предыстории и шумов,
         \item модель SARIMAX --- это объединение авторегрессии с некоторыми эвристиками  (сезонность, тренд) для обеспечения стационарности временного ряда.
         
