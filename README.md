@@ -44,7 +44,7 @@
 ### Семестр 2
 | Задание | Дата выдачи | Дата сдачи | Описание | Ссылка |
 |---------|----------|-------------|--------|-------|
-| 1 | Апрель, | Апрель, | CP decomp, ALS, классификация ЭЭГ|[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW3_tenscomp_tensor_als.ipynb)|
+| 1 | Март, 10 | Март, 24 | CP decomp, ALS, классификация ЭЭГ|[![Open In Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=Open%20in%20Github&color=lightgrey)](homeworks/HW3_tenscomp_tensor_als.ipynb)|
 | 2 | Апрель,  | Май, | Индивидуальные задания. (Лабораторная работа) ||
 
 ## Материалы
